@@ -5,3 +5,4 @@ Repository for Python automation course.
 * modified 2nd time.
 * modified 3rd time.
 * modified for branches testing.
+* for merge conflict
